@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>の博客</title>
+  
+  <subtitle>记录生活中的点点滴滴</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://wxk251722976.github.io/"/>
+  <updated>2020-02-04T07:29:51.989Z</updated>
+  <id>https://wxk251722976.github.io/</id>
+  
+  <author>
+    <name>wxk</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://wxk251722976.github.io/2020/02/02/hello-world/"/>
+    <id>https://wxk251722976.github.io/2020/02/02/hello-world/</id>
+    <published>2020-02-02T15:09:08.191Z</published>
+    <updated>2020-02-04T07:29:51.989Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;##Hello
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
