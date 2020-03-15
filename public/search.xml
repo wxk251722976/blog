@@ -2,23 +2,30 @@
 <search>
   <entry>
     <title>单例模式</title>
+    <url>/2020/02/12/hello-world/</url>
+    <content><![CDATA[<blockquote>
+</blockquote>
+<p>##Hello World</p>
+]]></content>
+      <categories>
+        <category>JAVA</category>
+      </categories>
+      <tags>
+        <tag>设计模式</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>单例模式</title>
     <url>/2020/02/12/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</url>
     <content><![CDATA[<blockquote>
 <p>单例模式具有多种不同的写法，对应不同的场景,单例模式具有多种不同的写法，对应不同的场景,单例模式具有多种不同的写法，对应不同的场景,单例模式具有多种不同的写法，对应不同的场景单例模式具有多种不同的写法，对应不同的场景,单例模式具有多种不同的写法，对应不同的场景,单例模式具有多种不同的写法，对应不同的场景,单例模式具有多种不同的写法，对应不同的场景,单例模式具有多种不同的写法，对应不同的场景</p>
 </blockquote>
 ]]></content>
       <categories>
-        <category>设计模式</category>
+        <category>JAVA</category>
       </categories>
       <tags>
         <tag>设计模式</tag>
-        <tag>JAVA</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2020/02/02/hello-world/</url>
-    <content><![CDATA[<p>##Hello World</p>
-]]></content>
   </entry>
 </search>
