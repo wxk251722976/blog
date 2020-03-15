@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wxk251722976.github.io/"/>
-  <updated>2020-03-15T13:43:28.807Z</updated>
+  <updated>2020-03-15T14:00:15.202Z</updated>
   <id>https://wxk251722976.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>单例模式</title>
+    <link href="https://wxk251722976.github.io/2020/02/12/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/"/>
+    <id>https://wxk251722976.github.io/2020/02/12/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</id>
+    <published>2020-02-12T14:22:34.000Z</published>
+    <updated>2020-03-15T14:00:15.202Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;单例模式具有多种不同的写法，对应不同的场景,单例模式具有多种不同的写法，对应不同的场景,单例模式具有多种不同的写法，对应不同的场景,单例模式具有多种不同的写法，对应不同的场景单例模式具有多种不同的写法，对应不同的场景,单例模式具有多种不同的写法，对
+        
+      
+    
+    </summary>
+    
+    
+      <category term="JAVA" scheme="https://wxk251722976.github.io/categories/JAVA/"/>
+    
+    
+      <category term="设计模式" scheme="https://wxk251722976.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>单例模式</title>
@@ -32,34 +60,6 @@
           &lt;blockquote&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;##Hello
-        
-      
-    
-    </summary>
-    
-    
-      <category term="JAVA" scheme="https://wxk251722976.github.io/categories/JAVA/"/>
-    
-    
-      <category term="设计模式" scheme="https://wxk251722976.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>单例模式</title>
-    <link href="https://wxk251722976.github.io/2020/02/12/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/"/>
-    <id>https://wxk251722976.github.io/2020/02/12/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</id>
-    <published>2020-02-12T14:22:34.000Z</published>
-    <updated>2020-03-15T14:00:15.202Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;单例模式具有多种不同的写法，对应不同的场景,单例模式具有多种不同的写法，对应不同的场景,单例模式具有多种不同的写法，对应不同的场景,单例模式具有多种不同的写法，对应不同的场景单例模式具有多种不同的写法，对应不同的场景,单例模式具有多种不同的写法，对
         
       
     
